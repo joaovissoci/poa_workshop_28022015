@@ -17,6 +17,8 @@
 
 # Roteiro
 
+<!-- intro, lit, discussion, analise, internacionalização -->
+
 * Manhã
 	* Internacionalização
 	* Além da publicação: Tecnologias e reproducibilidade
@@ -34,6 +36,13 @@
 # Internacionalização
 
 ---
+
+<!-- contextualizar informação sob a perspectiva do aluno - ou seja, como cada um desses fatos deve afetar a maneira pela qualo o aluno approach um professor para sugerir uma colaboração ou estágio -->
+
+
+<!-- o que pode te tornar atrativos
+dados - meta-dados e oportunidades artigos, propostas e intercâmbios
+-->
 
 # Como funciona a vida do professor americano
 
@@ -181,7 +190,6 @@
     * crédito quando dados usados por outros
     * oportunidades de colaboração
     * meta-dados e contexto
-
 
 ---
 
